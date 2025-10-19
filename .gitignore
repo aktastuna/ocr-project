@@ -1,3 +1,7 @@
 *img/
 *docs/
-*env/
+dev-config.env
+*output/
+*.ipynb
+*.ipynb_checkpoints/
+__pycache__/
